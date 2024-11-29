@@ -1,4 +1,4 @@
-<h1 align="left">💻🔍 I'm a bug bounty hunter 🕵️‍♂️ and cybersecurity enthusiast 🔒 focused on web penetration testing.🌐🔧</h1>
+<h1 align="left">💻🔍 I'm a bug bounty hunter 🔒 focused on web penetration testing.🌐🔧</h1>
 
 ###
 
