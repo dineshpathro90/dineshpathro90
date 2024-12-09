@@ -1,4 +1,4 @@
-<h1 align="left">💻 focused on web penetration testing.🌐🔧</h1>
+<h1 align="left">💻 Focused on web penetration testing.🌐🔧</h1>
 
 ###
 
