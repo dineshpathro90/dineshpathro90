@@ -41,10 +41,10 @@
   <a href="https://www.linkedin.com/in/dinesh-pathro-3660882b9/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://medium.com/@dineshpathro9" target="_blank">
+  <a href="https://medium.com/@theexploitlab" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
   </a>
-  <a href="https://x.com/DineshPathro" target="_blank">
+  <a href="https://x.com/theexploitlab" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
   <a href="https://t.me/theexploitlab" target="_blank">
