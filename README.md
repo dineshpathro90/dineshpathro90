@@ -13,7 +13,6 @@
 <h3 align="left">📊 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dineshpathro90&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="dineshpathro90's GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.demolab.com/?user=dineshpathro90&theme=radical&hide_border=true" alt="GitHub Streak" />
   <br/>
