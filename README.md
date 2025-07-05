@@ -8,7 +8,6 @@
   <img src="https://profile-counter.glitch.me/dineshpathro90/count.svg" alt="Profile views count">
 </div>
 
----
 
 <h1 align="center">Hey There 👋</h1>
 
